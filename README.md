@@ -1,8 +1,6 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
- 
-# Welcome! I'm Kauê!
+# Welcome! I'm Kauê Mendes!
 
-JavaScript, Java and SQL student. Freelancer.
+I have 15 years old and, actually I study JavaScript, TypeScript, React, Java and SQL.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kauemends)](https://github.com/kauemends)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemends/)](https://www.linkedin.com/in/kauemends/)
@@ -12,6 +10,6 @@ Passionate about web and mobile development.
 
 Studying Java and JavaScript with plans to study Computer Science. Future Android developer. Many projects in mind.
  
-"Taking responsibility - practicing 100 percent responsibility every day - is about seeing ourselves not as right or wrong, but as an agent, chooser, problem solver, and learner 
-in the complex interrelationships of our lives so that we can better integrate with the people and world around us. When we do this, we enjoy a better and more productive way to 
-live and lead."
+
+"The next Bill Gates will not create an operating system. The next Larry Page or Sergey Brin will not create a search engine. And the next Mark Zuckerberg will not create a social network. If you are copying these guys, you are not learning from them."
+
