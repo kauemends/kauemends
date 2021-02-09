@@ -1,6 +1,6 @@
 # Welcome! I'm Kauê Mendes!
 
-I have 15 years old and, actually I study JavaScript, TypeScript, React, Java and SQL.
+I have 15 years old and, actually I study JavaScript, Java and SQL.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kauemends)](https://github.com/kauemends)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemends/)](https://www.linkedin.com/in/kauemends/)
