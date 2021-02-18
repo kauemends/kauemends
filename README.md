@@ -8,7 +8,7 @@ I have 15 years old and, actually I study JavaScript, CSS and Java.
  
 Passionate about web and mobile development.
 
-Studying Java and JavaScript with plans to study Computer Science. Future Android developer. Many projects in mind.
+Studying Java, CSS and JavaScript with plans to study Computer Science. Future Android developer. Many projects in mind.
  
 
 "The next Bill Gates will not create an operating system. The next Larry Page or Sergey Brin will not create a search engine. And the next Mark Zuckerberg will not create a social network. If you are copying these guys, you are not learning from them."
