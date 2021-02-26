@@ -13,3 +13,8 @@ Studying Java, CSS and JavaScript with plans to study Computer Science. Future A
 
 "The next Bill Gates will not create an operating system. The next Larry Page or Sergey Brin will not create a search engine. And the next Mark Zuckerberg will not create a social network. If you are copying these guys, you are not learning from them."
 
+<br>
+
+[![Kauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauemends)](https://github.com/kauemends/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauemends&layout=compact)](https://github.com/kauemends/github-readme-stats)
