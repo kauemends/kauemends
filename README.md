@@ -1,6 +1,6 @@
 # Welcome! I'm Kauê Mendes! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I have 16 years old and, actually I study JavaScript, CSS and Kotlin.
+I have 16 years old and, actually I study JavaScript, CSS and Java.
 
 <br>
 
@@ -20,7 +20,7 @@ I have 16 years old and, actually I study JavaScript, CSS and Kotlin.
 
 Passionate about web and mobile development.
 
-Studying Kotlin, TypeScript, Java, CSS and JavaScript with plans to study Computer Science. Many projects in mind. Future Full Stack developer.
+Studying Kotlin, TypeScript, CSS and JavaScript with plans to study Computer Science. Many projects in mind. Future Full Stack developer.
  
 
 "The next Bill Gates will not create an operating system. The next Larry Page or Sergey Brin will not create a search engine. And the next Mark Zuckerberg will not create a social network. If you are copying these guys, you are not learning from them."
