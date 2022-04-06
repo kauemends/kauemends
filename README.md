@@ -1,6 +1,6 @@
 # Welcome! I'm Kauê Mendes! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I have 16 years old and, actually I study JavaScript, CSS and Kotlin
+I have 16 years old and, actually I study JavaScript, CSS and Kotlin.
 
 <br>
 
