@@ -5,7 +5,7 @@ I have 16 years old and, actually I study JavaScript, CSS and Kotlin.
 <br>
 
 <p align="center">
-    <a href="https://github.com/kauemends">
+    <a href="https://github.com/kauemends"
         <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
